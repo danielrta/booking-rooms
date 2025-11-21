@@ -111,7 +111,6 @@ using (var scope = app.Services.CreateScope())
     catch (Exception ex)
     {
         logger.LogError(ex, "Error applying EF Core migrations");
-        throw;
     }
 }
 
