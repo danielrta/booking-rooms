@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingRooms.API", "BookingRooms.API\BookingRooms.API.csproj", "{F18759E2-6257-419E-9282-9CB136EFC081}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingRooms.Specs", "BookingRooms.Specs\BookingRooms.Specs.csproj", "{F7C1F23D-2C14-40E2-BD5B-937FB4804346}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F18759E2-6257-419E-9282-9CB136EFC081}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F18759E2-6257-419E-9282-9CB136EFC081}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F18759E2-6257-419E-9282-9CB136EFC081}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F18759E2-6257-419E-9282-9CB136EFC081}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7C1F23D-2C14-40E2-BD5B-937FB4804346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7C1F23D-2C14-40E2-BD5B-937FB4804346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7C1F23D-2C14-40E2-BD5B-937FB4804346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7C1F23D-2C14-40E2-BD5B-937FB4804346}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
