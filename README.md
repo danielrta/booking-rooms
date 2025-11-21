@@ -53,6 +53,8 @@ Seeded admin user
 Admin:
   userName: admin@test.com
   password: Admin@123
+
+  Initially there is only one admin user. There is a small form to create users and test the remaining functionality
 ```
 
 ---
